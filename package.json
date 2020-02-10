@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roshanlam/E-ChatApp.git"
+    "url": "git+https://github.com/danmakes/E-ChatApp.git"
   },
-  "author": "Roshan Lamichhane"
+  "author": "Dan Makes"
   "devDependencies": {
     "chai": "^3.5.0",
     "electron": "^1.4.2",
